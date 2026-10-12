@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Mohammad Faruk Khan Rtaul
 
-<!--
-**Ratul952/Ratul952** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a beginner learning cybersecurity and web application security.
+I'm looking for an internship.
 
-Here are some ideas to get you started:
+## What I'm learning
+- PortSwigger Web Security Academy
+- Tools: Nmap, FFUF, DirBuster, OWASP ZAP, Metasploit, Burp Suite
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects (coming soon)
+- PortSwigger lab writeups
+- A mini penetration test report
+- A small Python script
