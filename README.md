@@ -9,5 +9,7 @@ I'm looking for an internship.
 
 ## Projects (coming soon)
 - PortSwigger lab writeups
+   1. Projects [PortSwigger Writeups](https://github.com/Ratul952/Portswigger-Writeups): SQL injection, more coming
+   2.  
 - A mini penetration test report
 - A small Python script
