@@ -7,9 +7,7 @@ I'm looking for an internship.
 - PortSwigger Web Security Academy
 - Tools: Nmap, FFUF, DirBuster, OWASP ZAP, Metasploit, Burp Suite
 
-## Projects (coming soon)
-- PortSwigger lab writeups
-   1. PortSwigger Writeups-- https://github.com/Ratul952/Portswigger-Writeups : SQL injection. (2 Lab)
-
-- A mini penetration test report
+## Projects
+- DVWA Penetration Test Report- https://github.com/Ratul952/DVWA-Penetration-Test-Report : Full pentest-style report with findings, CVSS scoring, and remediation
+- PortSwigger Writeups- https://github.com/Ratul952/Portswigger-Writeups : 8 labs across SQLi, XSS, Access Control, Authentication)
 - A small Python script
